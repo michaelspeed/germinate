@@ -309,10 +309,10 @@ const Home: BlitzPage = () => {
                   <img className="work-img" src="img/2.jpg" alt="Work" style={{height: 438, objectFit: "contain"}}/>
                 </div>
                 <div className="work-intro">
-                  <h3 className="work-title">Man</h3>
-                  <div className="work-descr">
+                  <h3 className="work-title">Fashion Show</h3>
+                  {/*<div className="work-descr">
                     External Page
-                  </div>
+                  </div>*/}
                 </div>
               </a>
             </li>
@@ -324,25 +324,25 @@ const Home: BlitzPage = () => {
                   <img className="work-img" src="img/3.jpg" alt="Work" style={{height: 438, objectFit: "contain"}}/>
                 </div>
                 <div className="work-intro">
-                  <h3 className="work-title">Woman</h3>
-                  <div className="work-descr">
+                  <h3 className="work-title">Fashion Show</h3>
+                  {/*<div className="work-descr">
                     External Page
-                  </div>
+                  </div>*/}
                 </div>
               </a>
             </li>
 
 
             <li className="work-item">
-              <a href="portfolio-single-1.html" className="work-ext-link">
+              <a href="#" className="work-ext-link">
                 <div className="work-img">
                   <img className="work-img" src="img/4.jpg" alt="Work" style={{height: 438, objectFit: "contain"}} />
                 </div>
                 <div className="work-intro">
-                  <h3 className="work-title">Man with bag</h3>
-                  <div className="work-descr">
+                  <h3 className="work-title">Fashion Show</h3>
+                  {/*<div className="work-descr">
                     External Page
-                  </div>
+                  </div>*/}
                 </div>
               </a>
             </li>
