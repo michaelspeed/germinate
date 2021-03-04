@@ -1,5 +1,6 @@
 import { ReactNode } from "react"
 import { Head } from "blitz"
+import Header from "../../components/headers/Header"
 
 type LayoutProps = {
   title?: string
@@ -9,12 +10,10 @@ type LayoutProps = {
 const Layout = ({ title, children }: LayoutProps) => {
   return (
     <>
-      <Head>
-        <title>{title || "germinate-app"}</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
-      {children}
+      <div className="page" id="top">
+        <Header/>
+        {children}
+      </div>
     </>
   )
 }
