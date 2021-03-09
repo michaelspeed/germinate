@@ -18,6 +18,7 @@ const Home: BlitzPage = () => {
 
               <div className="local-scroll">
                 <a href="#about" className="btn btn-mod btn-w btn-medium btn-round hidden-xs">See More</a>
+                <a href="#contact" className="btn btn-mod btn-w btn-medium btn-round hidden-xs" style={{marginLeft: 10}}>Contact US</a>
                 <span className="hidden-xs">&nbsp;</span>
               </div>
 
@@ -281,7 +282,7 @@ const Home: BlitzPage = () => {
             </div>
 
             <div className="col-sm-6 banner-image wow fadeInUp">
-              <img src="img/1.jpg" alt="" />
+              <img src="img/8.jpg" alt="" />
             </div>
 
           </div>
@@ -306,7 +307,7 @@ const Home: BlitzPage = () => {
             <li className="work-item">
               <a href="portfolio-single-1.html" className="work-ext-link">
                 <div className="work-img">
-                  <img className="work-img" src="img/2.jpg" alt="Work" style={{height: 438, objectFit: "contain"}}/>
+                  <img className="work-img" src="img/5.jpg" alt="Work" style={{height: 438, objectFit: "contain"}}/>
                 </div>
                 <div className="work-intro">
                   <h3 className="work-title">Fashion Show</h3>
@@ -321,7 +322,7 @@ const Home: BlitzPage = () => {
             <li className="work-item">
               <a href="portfolio-single-1.html" className="work-ext-link">
                 <div className="work-img">
-                  <img className="work-img" src="img/3.jpg" alt="Work" style={{height: 438, objectFit: "contain"}}/>
+                  <img className="work-img" src="img/6.jpg" alt="Work" style={{height: 438, objectFit: "contain"}}/>
                 </div>
                 <div className="work-intro">
                   <h3 className="work-title">Fashion Show</h3>
@@ -336,7 +337,7 @@ const Home: BlitzPage = () => {
             <li className="work-item">
               <a href="#" className="work-ext-link">
                 <div className="work-img">
-                  <img className="work-img" src="img/4.jpg" alt="Work" style={{height: 438, objectFit: "contain"}} />
+                  <img className="work-img" src="img/7.jpg" alt="Work" style={{height: 438, objectFit: "contain"}} />
                 </div>
                 <div className="work-intro">
                   <h3 className="work-title">Fashion Show</h3>
