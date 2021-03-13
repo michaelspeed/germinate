@@ -8,8 +8,6 @@ const Home: BlitzPage = () => {
       <section className="home-section bg-dark-alfa-90 parallax-2"
                data-background="img/bg.jpg" id="home">
         <div className="js-height-full">
-
-
           <div className="home-content container">
             <div className="home-text">
 
