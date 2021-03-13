@@ -282,7 +282,7 @@ const Home: BlitzPage = () => {
             </div>
 
             <div className="col-sm-6 banner-image wow fadeInUp">
-              <img src="img/8.jpg" alt="" />
+              <img src="img/9.jpeg" alt="" />
             </div>
 
           </div>
@@ -307,7 +307,7 @@ const Home: BlitzPage = () => {
             <li className="work-item">
               <a href="portfolio-single-1.html" className="work-ext-link">
                 <div className="work-img">
-                  <img className="work-img" src="img/5.jpg" alt="Work" style={{height: 438, objectFit: "contain"}}/>
+                  <img className="work-img" src="img/2.jpg" alt="Work" style={{height: 438, objectFit: "contain"}}/>
                 </div>
                 <div className="work-intro">
                   <h3 className="work-title">Fashion Show</h3>
@@ -322,7 +322,7 @@ const Home: BlitzPage = () => {
             <li className="work-item">
               <a href="portfolio-single-1.html" className="work-ext-link">
                 <div className="work-img">
-                  <img className="work-img" src="img/6.jpg" alt="Work" style={{height: 438, objectFit: "contain"}}/>
+                  <img className="work-img" src="img/3.jpg" alt="Work" style={{height: 438, objectFit: "contain"}}/>
                 </div>
                 <div className="work-intro">
                   <h3 className="work-title">Fashion Show</h3>
@@ -337,7 +337,7 @@ const Home: BlitzPage = () => {
             <li className="work-item">
               <a href="#" className="work-ext-link">
                 <div className="work-img">
-                  <img className="work-img" src="img/7.jpg" alt="Work" style={{height: 438, objectFit: "contain"}} />
+                  <img className="work-img" src="img/4.jpg" alt="Work" style={{height: 438, objectFit: "contain"}} />
                 </div>
                 <div className="work-intro">
                   <h3 className="work-title">Fashion Show</h3>
