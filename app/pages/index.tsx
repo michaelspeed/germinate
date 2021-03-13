@@ -280,7 +280,7 @@ const Home: BlitzPage = () => {
             </div>
 
             <div className="col-sm-6 banner-image wow fadeInUp">
-              <img src="img/9.jpeg" alt="" />
+              <img src="img/10.jpg" alt="" />
             </div>
 
           </div>
